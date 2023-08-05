@@ -22,6 +22,8 @@
 
 以下の部分を変更します。
 
+```
 g_api_key   = "input your key"# Global input your api key
 g_city_code = 0 # Global input your city code
+```
 
